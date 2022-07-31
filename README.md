@@ -1,8 +1,8 @@
-### App Espectagram - App para publicar fotos
+### Projeto: App Espectagram - App para publicar fotos
 
-## Dependências
+## Dependências:
 
-### parte 1:
+### Estágio 1:
 
 yarn add @react-navigation/native
 
@@ -21,20 +21,21 @@ yarn --reset-cache
 
 expo upgrade 43
 
-## parte 2:
+### estágio 2:
 
+yarn add @react-navigation/material-bottom-tabs react-native-paper
+yarn add react-native-responsive-fontsize
 
+### estágio 3:
 
-### parte 3:
+### estágio 4:
 
-### parte 4:
+### estágio 5:
 
-### parte 5:
+### estágio 6:
 
-### parte 6:
+### estágio 7:
 
-### parte 7:
+### estágio 8:
 
-### parte 8:
-
-### parte 9:
+### estágio 9:
