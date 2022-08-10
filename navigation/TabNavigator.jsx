@@ -6,7 +6,7 @@ import { RFValue } from "react-native-responsive-fontsize";
 
 
 import Feed from "../screens/Feed";
-import CreatePost from './../screens/CreatePost';
+import CreatePost from '../screens/CreatePost';
 
 const Tab = createMaterialBottomTabNavigator();
 

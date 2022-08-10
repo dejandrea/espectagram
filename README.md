@@ -1,4 +1,4 @@
-### Projeto: App Espectagram - App para publicar fotos
+### Projeto: App Espectagram - App para compartilhar fotos
 
 ## Dependências:
 
@@ -27,6 +27,8 @@ yarn add @react-navigation/material-bottom-tabs react-native-paper
 yarn add react-native-responsive-fontsize
 
 ### estágio 3:
+
+yarn add react-native-dropdown-picker
 
 ### estágio 4:
 
